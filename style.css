@@ -196,6 +196,7 @@ button {
     background-color: #3882f6;
     border-radius: 10px;
     color: white;
+    border-style: solid;
     font-size: 24px;
     padding: 5px;
     padding-left: 30px;
